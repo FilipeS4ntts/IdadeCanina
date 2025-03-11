@@ -6,7 +6,7 @@
 
 Treino para o uso da linguagem de Swift
 
-<h2 id=objective>:scroll: Sobre o Projeto 📚</h2>
+<h2 id=objective>📚Sobre o Projeto</h2>
 
 Uma calculadora que transforma a idade de um humano para a idade de um cachorro
 
